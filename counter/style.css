@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+    color: antiquewhite;
+}
+
+.col-md-6 {
+    border: 2px solid white;
+    margin-top: 200px !important;
+    padding: 20px;
+}
+
+.btn {
+    margin: 10px;
+}
+
+h1 {
+    font-weight: bolder;
+    margin: 20px;
+}
