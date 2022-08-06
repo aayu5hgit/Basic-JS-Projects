@@ -9,13 +9,15 @@ body{
 }
 
 .btn{  
-    width: 100px;
+    width: 50px;
 }
 
 input[type=text]{
     width: 100%;
     background-color: transparent;
     border: 0px;
+    color: antiquewhite;
+    font-size: large;
 }
 
 a {

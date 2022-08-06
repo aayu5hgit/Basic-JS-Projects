@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(to right, #44a08d, #093637);
+    color: aliceblue;
+}
+
+.col-md-5 {
+    margin-top: 80px;
+}
+
+input{
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 20px !important;
+}
+
+.success{
+    border: 3px solid green !important;
+}
+
+.error{
+    border: 3px solid rgb(255, 76, 76) !important;
+}
+
+small{
+    color: rgb(253, 146, 146);
+    text-align: left !important;
+}
