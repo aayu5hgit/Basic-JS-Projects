@@ -1,0 +1,33 @@
+.maindiv{
+    background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+    height: 100vh;
+    color: antiquewhite;
+    width: 0;
+    transition: 0.9s;
+}
+
+button{
+    margin: 10px !important;
+    background-color:#c2c2c2;
+}
+
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+a:hover{
+    color: rgb(186, 177, 166);
+}
+
+
+ul{
+    text-align: center;
+}
+
+li{
+    list-style-type: none;
+    margin: 50px;
+    font-size: 35px;
+    display: none;
+}
